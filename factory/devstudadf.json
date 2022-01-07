@@ -1,0 +1,9 @@
+{
+	"name": "devstudadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2a1b24e-6edb-4a9c-b211-47445db35b31",
+		"tenantId": "720fee31-5fd5-4dc0-8eee-b6d6685683fa"
+	}
+}
